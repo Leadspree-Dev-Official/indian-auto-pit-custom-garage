@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/indian-auto-pit-custom-garage/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
