@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --brand-color: #F59E0B;
+  --brand-color-light: #F59E0B1a;
+  --brand-color-hover: #D97706;
+  --brand-raised: #F59E0B;
+  --color-brand-raised: #F59E0B;
+  --color-brand-base: #0f172a;
+  --color-brand-secondary: #0f172a;
+  --ring: #F59E0B;
+  --saffron: #F59E0B;
+}

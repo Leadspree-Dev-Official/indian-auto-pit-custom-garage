@@ -1,0 +1,6 @@
+{
+  "name": "Indian Auto Pit & Custom Garage",
+  "description": "Premier Indian car care & custom garage offering washing, detailing, repair diagnostics, performance tuning, and custom auto modifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
